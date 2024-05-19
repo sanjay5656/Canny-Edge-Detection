@@ -1,6 +1,6 @@
 # Canny-Edge-Detection
 
-## 1. To implement the Canny edge detection algorithm on an image
+## To implement the Canny edge detection algorithm on an image
 
 ## PYTHON PROGRAM
 ```
